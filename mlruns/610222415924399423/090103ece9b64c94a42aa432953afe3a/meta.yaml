@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/10%20acadamy/bati-bank-credit/mlruns/610222415924399423/090103ece9b64c94a42aa432953afe3a/artifacts
+end_time: 1780994808258
+entry_point_name: ''
+experiment_id: '610222415924399423'
+lifecycle_stage: active
+run_id: 090103ece9b64c94a42aa432953afe3a
+run_name: logistic_regression
+run_uuid: 090103ece9b64c94a42aa432953afe3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780994807755
+status: 4
+tags: []
+user_id: Meliiii

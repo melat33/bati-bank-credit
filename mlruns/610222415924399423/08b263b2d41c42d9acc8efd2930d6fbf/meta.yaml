@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/10%20acadamy/bati-bank-credit/mlruns/610222415924399423/08b263b2d41c42d9acc8efd2930d6fbf/artifacts
+end_time: 1780995150849
+entry_point_name: ''
+experiment_id: '610222415924399423'
+lifecycle_stage: active
+run_id: 08b263b2d41c42d9acc8efd2930d6fbf
+run_name: xgboost
+run_uuid: 08b263b2d41c42d9acc8efd2930d6fbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780995112482
+status: 3
+tags: []
+user_id: Meliiii
