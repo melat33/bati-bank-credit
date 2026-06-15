@@ -1,5 +1,4 @@
-const API_URL = 'http://192.168.3.113:8000'
-
+const API_URL = 'https://bati-bank-api.onrender.com'
 // 1 — get all scored customers sorted by risk score
 export const getAllCustomers = async () => {
   const response = await fetch(`${API_URL}/customers`)
