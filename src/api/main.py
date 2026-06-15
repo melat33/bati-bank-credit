@@ -28,7 +28,10 @@ app = FastAPI(
 # ─────────────────────────────────────────────
 app.add_middleware(
     CORSMiddleware,
-    allow_origins    =["http://localhost:3000"],  # React dev server
+    allow_origins=[
+    "http://localhost:3000",
+    "http://192.168.3.113:3000",
+], # React dev server
     allow_methods    =["*"],
     allow_headers    =["*"],
     allow_credentials=True
