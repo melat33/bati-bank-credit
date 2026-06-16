@@ -1,0 +1,29 @@
+# data
+data/raw/
+data/processed/
+*.csv
+
+# models — too large
+outputs/models/
+outputs/**
+*.pkl
+
+# mlflow experiments — too many files
+mlruns/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
+
+# database
+*.db
+
+# node
+node_modules/
+frontend/node_modules/
+
+# build
+frontend/build/
