@@ -12,7 +12,7 @@ outputs/**
 mlruns/
 
 # python
-__pycache__/
+pycache/
 *.pyc
 .ipynb_checkpoints/
 venv/
