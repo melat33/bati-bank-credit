@@ -31,6 +31,7 @@ app.add_middleware(
     allow_origins=[
     "http://localhost:3000",
     "http://192.168.3.113:3000",
+    "https://bati-bank-credit-risk-analysis.vercel.app",
 ], # React dev server
     allow_methods    =["*"],
     allow_headers    =["*"],
