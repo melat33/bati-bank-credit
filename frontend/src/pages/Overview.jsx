@@ -29,7 +29,7 @@ export default function Overview() {
   const total    = customers.length
   const highRisk = customers.filter(c => c.risk_level === 'High').length
   const approved = customers.filter(c => c.decision === 'Approve').length
-  
+ 
   const approvalRate = total > 0 ? ((approved / total) * 100).toFixed(1) : 0
 
   // score a customer from the queue
