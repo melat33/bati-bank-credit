@@ -1,4 +1,4 @@
-const API_URL = 'https://bati-bank-credit-5.onrender.com'
+const API_URL = 'https://bati-bank-credit-6.onrender.com'
 // 1 — get all scored customers sorted by risk score
 export const getAllCustomers = async () => {
   const response = await fetch(`${API_URL}/customers`)
