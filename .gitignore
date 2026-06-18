@@ -3,10 +3,7 @@ data/raw/
 data/processed/
 *.csv
 
-# models — too large
-outputs/models/
-outputs/**
-*.pkl
+
 
 # mlflow experiments — too many files
 mlruns/
